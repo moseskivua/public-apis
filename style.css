@@ -1,0 +1,15 @@
+.primg0
+{
+	max-width: 150px;
+	max-height: 200px;
+}
+
+.card {
+	display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  text-align:center;
+	
+}
+
